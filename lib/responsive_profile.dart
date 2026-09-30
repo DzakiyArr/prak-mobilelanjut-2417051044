@@ -14,7 +14,7 @@ class ResponsiveProfilePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Responsive Profile Page'),
+        title: const Text('Responsive Profile'),
         actions: [
           IconButton(
             onPressed: onThemeChanged,
